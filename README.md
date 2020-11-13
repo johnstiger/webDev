@@ -1,2 +1,1 @@
-# webDev
-BookAPI
+# A simple BookStore Crud api
