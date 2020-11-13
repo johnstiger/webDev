@@ -13,7 +13,7 @@
         "api",
         "simple"
     ],
-    "author": "Gerald Afable",
+    "author": "Pacinio John Dave, Floyd Villamor",
     "license": "MIT",
     "dependencies": {
         "express": "^4.17.1",
